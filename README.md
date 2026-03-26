@@ -8,3 +8,7 @@
 
 # Завдання 2
 <img width="2560" height="1339" alt="зображення" src="https://github.com/user-attachments/assets/4df4ea1a-1ff7-4298-b368-95aa8fa284fd" />
+
+
+# Завдання 3
+<img width="2560" height="1375" alt="зображення" src="https://github.com/user-attachments/assets/a24cb912-a0cf-4042-9f76-4b0fd402d7bc" />
