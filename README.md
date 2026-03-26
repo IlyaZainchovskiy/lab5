@@ -12,3 +12,7 @@
 
 # Завдання 3
 <img width="2560" height="1375" alt="зображення" src="https://github.com/user-attachments/assets/a24cb912-a0cf-4042-9f76-4b0fd402d7bc" />
+
+
+# Завдання 4 
+<img width="2560" height="1388" alt="зображення" src="https://github.com/user-attachments/assets/7aa10637-e2b1-42b4-8005-44820ceeb1e9" />
